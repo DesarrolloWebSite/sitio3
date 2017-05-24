@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Quién soy yo
-tags:[quien soy, Manuel Carmona, diseñador web, SEO]
+tags:[quien soy, Juan Carlos, Licenciado en Ciencias Económicas y Empresariales]
 ---
-### Hola soy Manuel Carmona 
-Soy diseñador Web, Consultor SEO y en mis ratos libres soy un fan de dispositivos Android. 
-Si quieres hablarme acerca de un proyecto, mi trabajo o algún otro tema contacta conmigo.
+### Hola soy Juan Carlos 
+Soy Licenciado en Ciencias Económicas y Empresariales.
+Me gusta el mundo de la programación y el diseño web.
 
 ### Contacto
 * [E-mail](mailto:ejemplo@ejemplo.com)

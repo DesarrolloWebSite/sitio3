@@ -1,0 +1,32 @@
+# Site Settings
+title:               Manuel Carmona
+tagline:             Diseñador Web
+description:
+baseurl:            #"/blog"
+url:                #"https://manuelcarmona.github.io"
+github:
+  url:               #"https://manuelcarmona.github.io/blog"
+author:
+  name:              "Manuel"
+  email:             "manucarcor@gmail.com"
+  twitter:           "manucarcor"
+  instagram:         "imanucarcor"
+  github:            "manuelcarmona"
+  facebook:          #""
+  linkedin:          #""
+navigation:
+- title: Quién soy
+  url: /about
+- title: Publicaciones
+  url: /writing
+- title: Contacto
+  url: /contact
+
+paginate:            5
+disqus:              "https-manuelcarmona-github-io-blog"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
